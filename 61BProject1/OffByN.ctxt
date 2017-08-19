@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=N
+comment0.target=OffByN(int)
+comment1.params=x\ y
+comment1.target=boolean\ equalChars(char,\ char)
+numComments=2

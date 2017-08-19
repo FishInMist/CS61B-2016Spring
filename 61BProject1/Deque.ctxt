@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=item
+comment0.target=void\ addFirst(java.lang.Object)
+comment1.params=item
+comment1.target=void\ addLast(java.lang.Object)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=void\ printDeque()
+comment5.params=
+comment5.target=java.lang.Object\ removeFirst()
+comment6.params=
+comment6.target=java.lang.Object\ removeLast()
+comment7.params=index
+comment7.target=java.lang.Object\ get(int)
+numComments=8

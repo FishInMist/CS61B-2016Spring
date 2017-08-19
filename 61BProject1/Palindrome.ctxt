@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=Deque\ wordToDeque(java.lang.String)
+comment1.params=word\ cc
+comment1.target=boolean\ isPalindrome(java.lang.String,\ CharacterComparator)
+numComments=2
