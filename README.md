@@ -1,2 +1,2 @@
-<h1>Homework and course projects code</h1>
+<h1 style="color:red">Homework and course projects code</h1>
 
