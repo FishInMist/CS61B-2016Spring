@@ -1,2 +1,2 @@
 <h1>Homework and course projects code</h1>
-<input type = "submit" value = "tryMe">
+<button type="button">Click Me!</button>
